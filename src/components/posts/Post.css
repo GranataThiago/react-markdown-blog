@@ -8,3 +8,7 @@ code {
   padding: 1em 3em 1em 0;
   background-color: rgba(0, 0, 0, 0.05);
 }
+
+.center {
+  text-align: center;
+}

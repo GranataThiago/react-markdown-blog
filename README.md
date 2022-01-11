@@ -25,4 +25,4 @@ Para agregar un nuevo post hay que modificar dos archivos:
 
 3. Comenzar a escribir!
 
-## [Miralo en acción](https://react-markdown-blog.vercel.app/):
+## [Miralo en acción](https://react-markdown-blog.vercel.app/)

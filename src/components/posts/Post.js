@@ -24,9 +24,16 @@ export const Post = () => {
 
     return (
         <section className='post limit-content'>
-            <Markdown>
-                {post}
-            </Markdown>
+            {
+                !post
+                    ?
+                    <h2 className='center'>Cargando...</h2>
+                    :
+                    <Markdown>
+                        {post}
+                    </Markdown>
+            }
+
         </section>
     )
 }

@@ -22,7 +22,10 @@ const ListPosts = () => {
     return (
         <section className='limit-content posts'>
             {
-                posts.map(post => <PostCard key={post.title} post={post} />)
+                posts.length !== 0 ?
+                    posts.map(post => <PostCard key={post.title} post={post} />)
+                    :
+                    <h2>Cargando posts...</h2>
             }
         </section>
     )
