@@ -9,7 +9,7 @@ export const Header = () => {
 
             <ul className='navlist'>
                 <li className='navlist__item'>
-                    <Link className='link' to="/">Home</Link>
+                    <Link className='link' to="/">Inicio</Link>
                 </li>
                 <li className='navlist__item'>
                     <a className='link' href="https://twitter.com/home">Twitter</a>
@@ -18,7 +18,7 @@ export const Header = () => {
                     <a className='link' href="https://github.com/granatathiago">Github</a>
                 </li>
                 <li className='navlist__item'>
-                    <a className='link' href="mailto:granatathiago@gmail.com">Contact</a>
+                    <a className='link' href="mailto:granatathiago@gmail.com">Contacto</a>
                 </li>
             </ul>
         </header>

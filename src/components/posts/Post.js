@@ -20,7 +20,7 @@ export const Post = () => {
                     })
             })
 
-    }, [])
+    }, [postId])
 
     return (
         <section className='post limit-content'>
