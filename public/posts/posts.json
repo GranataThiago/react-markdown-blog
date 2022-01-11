@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Como mejorar como front-end",
+        "description": "Mejorá como front-end con esta guia de 5 pasos",
+        "route": "better-frontend"
+        
+    },
+    {
+        "title": "Como hacer un blog utilizando React",
+        "description": "Creá un blog simple con la ayuda de React y Markdown",
+        "route": "react-markdown-blog"
+    },
+    {
+        "title": "Tres formas de centrar un div",
+        "description": "Como enfrentar la peor pesadilla de cualquier desarrollador",
+        "route": "centrar-div"
+    }
+]

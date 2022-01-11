@@ -1,0 +1,19 @@
+:root {
+  --clr-primary: #446dff;
+  --clr-secondary: white;
+
+  --ff-primary: "Roboto Mono", monospace;
+}
+
+body {
+  font-family: var(--ff-primary);
+}
+
+.limit-content {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.link {
+  color: var(--clr-primary);
+}
